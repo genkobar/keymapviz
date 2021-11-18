@@ -1,5 +1,5 @@
 test:
-	python test.py
+	python3 test.py
 
 setup:
 	git clone --depth 1 https://github.com/qmk/qmk_firmware.git
